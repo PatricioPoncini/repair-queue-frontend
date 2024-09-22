@@ -1,6 +1,5 @@
 import { defineStore } from 'pinia'
 import { repairQueueApi } from '@/service/repair_queue'
-import { useRouter } from 'vue-router'
 
 interface UserState {
   userName: string
