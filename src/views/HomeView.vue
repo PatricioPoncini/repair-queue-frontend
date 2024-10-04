@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import CarouselComponent from '@/components/CarouselComponent.vue'
-import FooterComponent from '@/components/FooterComponent.vue'
 </script>
 
 <template>
@@ -40,6 +39,5 @@ import FooterComponent from '@/components/FooterComponent.vue'
         </p>
       </div>
     </div>
-    <FooterComponent />
   </div>
 </template>
