@@ -1,7 +1,7 @@
 <template>
   <div class="navbar bg-[#181f41]">
     <div class="flex-1">
-      <a class="btn btn-ghost text-xl text-[#EBF4F6]">RepairQueue</a>
+      <a class="btn btn-ghost text-2xl text-[#EBF4F6]">RepairQueue</a>
     </div>
     <div class="flex-none">
       <ul class="menu menu-horizontal px-1 flex gap-4">

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="carousel w-full">
+    <div class="carousel w-full rounded-xl">
       <div id="item1" class="carousel-item w-full">
         <img src="/car_1.jpg" class="w-full" />
       </div>
